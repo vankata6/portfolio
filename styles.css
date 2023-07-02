@@ -300,10 +300,10 @@ section .title::after{
     background: blue;
 }
 .skills-content .right .html::before{
-    width: 90%;
+    width: 100%;
 }
 .skills-content .right .css::before{
-    width: 90%;
+    width: 100%;
 }
 .skills-content .right .js::before{
     width: 80%;
@@ -312,7 +312,10 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .wordpress::before{
-    width: 50%;
+    width: 70%;
+}
+.skills-content .right .shopify::before{
+    width: 90%;
 }
 
 .services{
